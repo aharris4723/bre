@@ -1,0 +1,227 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+#title1{
+	text-align: center;
+	font-size: 50px;
+	color: black;
+	background-color: pink;
+	text-shadow: 2px 2px gold;
+	height: 120px;
+	width: 100%;
+	padding-top: 2%;
+	background-image: url("header1.png");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: 150% 100%;
+	padding-bottom: 4%;
+
+}
+#title2{
+	text-align: center;
+	font-size: 4vmax;
+	color: black;
+	font-family: 'Shrikhand', cursive;
+	text-shadow: 2px 2px gold;
+
+}
+#subtext{
+	text-align: center;
+	font-size: 1.8vmax;
+	color: gold;
+	text-shadow: 4px 4px black;
+	font-family: 'Pacifico', cursive;
+	margin-bottom: 1%;
+	padding-bottom: 2%;
+	
+}
+p{
+	text-align: center;
+	background-color: black;
+	font-size: 18px;
+	color: gray;
+}
+#navbars{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+  box-shadow: 5px 5px 5px 5px gold;
+  font-family: 'Rock Salt', cursive;
+  color: white;
+  text-shadow: 2px 2px black;
+
+}
+li{
+  float: left;
+  font-family: 'Rock Salt', cursive;
+  font-size: .7vmax;
+  color: white;
+  text-shadow: 2px 2px black;
+
+
+
+  
+}
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-family: 'Rock Salt', bold;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+  background-color: white;
+}
+#wrapper{
+	width: 100%;
+	height: 800px;
+	background-image: url("brebackground.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: 100% 100%;
+}
+#home{
+	font-size: 50px;
+	color: pink;
+}
+footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: black;
+  color: white;
+  text-align: center;
+}
+#wrapper-products-page{
+	/*background-image: url("productbackground.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: 100% 100%;*/
+	background-color: black;
+}
+.products{
+	height: 30vmax;
+	width: 20vmax;
+	display: inline-block;
+	margin-top:5%;
+	margin-left: 18vmax; 
+	margin-right: 1px auto;
+	margin-bottom: 5%;
+	background-color: #FFE4B5;
+}
+#product1{
+	background-image: url("rosegoldneckandearrings.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: 1% 1%;
+
+}
+#product2{
+	background-image: url("jewlerybox.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	/*background-position: 1% 1%;*/
+
+}
+#product3{
+	background-image: url("mirrorbeyonce.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: 1% 1%;
+
+}
+#product4{
+	background-image: url("nurselifenecklace.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: 1% 1%;
+
+}
+#product4{
+	background-image: url("socialworkerbraclet.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: 1% 1%;
+
+}
+#product5{
+	background-image: url("inspirenecklace.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: 1% 1%;
+
+}
+#product6{
+	background-image: url("leatherfeatherearrings.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: 1% 1%;
+
+}
+#product7{
+	background-image: url("lovebraceletset.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: 1% 1%;
+
+}
+#product8{
+	background-image: url("melaninbracelet.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: 1% 1%;
+
+}
+#product9{
+	background-image: url("queen3pcbraclet.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: 1% 1%;
+
+}
+#product10{
+	background-image: url("silerrockearings.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: 1% 1%;
+
+}
+#product11{
+	background-image: url("tasalearrings.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: 1% 1%;
+
+}
+#product12{
+	background-image: url("blackgirlmagicbraclet.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: 1% 1%;
+
+}
+#contact-wrapper{
+	
+	width: 100%;
+	height: 800px;
+	background-image: url("contactme.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+
+}
+#icons{
+	position: absolute;
+	margin-left: 59vmax;
+	margin-top: 29vmax;
+	display: inline-block;
+
+
+}
+
